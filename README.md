@@ -7,7 +7,7 @@
  <body>
     <h1>Antonio Mejia's Portfolio</h1>
     <h4>Currently a web-developer, soon a full-stack engineer!</h4>
-    <img src="me.jpeg" height="300"/>
+    <img src="./assests/images/me.jpeg" height="300"/>
     <hr/>
     <h2>Projects:</h2>
     <ol>
